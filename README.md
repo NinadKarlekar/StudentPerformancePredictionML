@@ -3,7 +3,7 @@ This project understands how the student's performance (test scores) is affected
 
 
 
-## Steps to recreate from scrach
+## SETUP
 
 1. Go to ***VS CODE*** and open project folder.
 
