@@ -1,7 +1,12 @@
 # StudentPerformancePredictionML
-This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
+This end-to-end Data Science project aims to predict the test scores of students based on the number of hours they studied. The project takes into consideration other variables such as `Gender`, `Ethnicity`, `Parental level of education`, `Lunch`, and `Test preparation course` that may affect a student's performance. The project includes all the necessary steps involved in a typical Data Science project, such as **data cleaning**, **exploratory data analysis**, **feature engineering**, **model building**, and **evaluation**.
 
+## Installation
+To run this project, you will need to have Python 3 installed on your machine. You can install the required packages by running the following command:
 
+```bash
+pip install -r requirements.txt
+```
 
 ## SETUP
 
